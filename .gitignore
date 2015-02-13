@@ -1,0 +1,4 @@
+*.o
+*.ghw
+*.cf
+test_mips_processor
